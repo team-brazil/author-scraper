@@ -1,0 +1,88 @@
+{
+  "campos": [
+    {
+      "id": "C162324750",
+      "nome": "Economics",
+      "nome_seguro": "economics",
+      "parametros_filtro": {
+        "min_score": 20,
+        "top_k": 5,
+        "min_relative": 0.6,
+        "borderline_score": 45,
+        "min_share": 0.40
+      },
+      "arquivo_saida": "openalex_field_outputs/economics_researchers_strict.csv",
+      "arquivo_cursor": "openalex_field_outputs/economics_cursor.txt"
+    },
+    {
+      "id": "C71924100",
+      "nome": "Medicine",
+      "nome_seguro": "medicine",
+      "parametros_filtro": {
+        "min_score": 20,
+        "top_k": 5,
+        "min_relative": 0.6,
+        "borderline_score": 45,
+        "min_share": 0.40
+      },
+      "arquivo_saida": "openalex_field_outputs/medicine_researchers_strict.csv",
+      "arquivo_cursor": "openalex_field_outputs/medicine_cursor.txt"
+    },
+    {
+      "id": "C41008148",
+      "nome": "Computer Science",
+      "nome_seguro": "computer_science",
+      "parametros_filtro": {
+        "min_score": 20,
+        "top_k": 5,
+        "min_relative": 0.6,
+        "borderline_score": 45,
+        "min_share": 0.40
+      },
+      "arquivo_saida": "openalex_field_outputs/computer_science_researchers_strict.csv",
+      "arquivo_cursor": "openalex_field_outputs/computer_science_cursor.txt"
+    },
+    {
+      "id": "C121332964",
+      "nome": "Physics",
+      "nome_seguro": "physics",
+      "parametros_filtro": {
+        "min_score": 20,
+        "top_k": 5,
+        "min_relative": 0.6,
+        "borderline_score": 45,
+        "min_share": 0.40
+      },
+      "arquivo_saida": "openalex_field_outputs/physics_researchers_strict.csv",
+      "arquivo_cursor": "openalex_field_outputs/physics_cursor.txt"
+    },
+    {
+      "id": "C185592680",
+      "nome": "Chemistry",
+      "nome_seguro": "chemistry",
+      "parametros_filtro": {
+        "min_score": 20,
+        "top_k": 5,
+        "min_relative": 0.6,
+        "borderline_score": 45,
+        "min_share": 0.40
+      },
+      "arquivo_saida": "openalex_field_outputs/chemistry_researchers_strict.csv",
+      "arquivo_cursor": "openalex_field_outputs/chemistry_cursor.txt"
+    },
+    {
+      "id": "C154945302",
+      "nome": "Biology",
+      "nome_seguro": "biology",
+      "parametros_filtro": {
+        "min_score": 20,
+        "top_k": 5,
+        "min_relative": 0.6,
+        "borderline_score": 45,
+        "min_share": 0.40
+      },
+      "arquivo_saida": "openalex_field_outputs/biology_researchers_strict.csv",
+      "arquivo_cursor": "openalex_field_outputs/biology_cursor.txt"
+    }
+  ]
+}
