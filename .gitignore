@@ -2,3 +2,4 @@ logs
 data
 openalex_field_outputs
 plans
+__pycache__
